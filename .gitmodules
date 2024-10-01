@@ -1,0 +1,6 @@
+[submodule "youtweet"]
+	path = youtweet
+	url = https://github.com/IshanKhurana12/youtweet
+[submodule "youtweet-frontend"]
+	path = youtweet-frontend
+	url = https://github.com/IshanKhurana12/youtweet-frontend
